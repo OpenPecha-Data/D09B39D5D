@@ -6,5 +6,6 @@ annotations:
     span:
       start: 13441
       end: 13441
+      fail_update: both
 local_ids:
   80fd5bb704ce41589776145532786b51: 200000
